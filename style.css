@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: #34495e;
+    background: #000000	;
   }
   .box{
     width: 300px;
@@ -11,7 +11,7 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background: #191919;
+    background:#161718;
     text-align: center;
   }
   .box h1{
@@ -25,7 +25,7 @@ body{
     display: block;
     margin: 20px auto;
     text-align: center;
-    border: 2px solid #3498db;
+    border: 2px solid #0c6cbb;
     padding: 14px 10px;
     width: 200px;
     outline: none;
